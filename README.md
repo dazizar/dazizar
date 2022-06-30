@@ -5,6 +5,7 @@
   - Cyber Security
 - 🌱 I’m currently learning ...
   - How to make myself hireable as a software developer
+  - PyGame
   - C#
   - JavaScript
 - 💞️ I’m looking to collaborate on ...
