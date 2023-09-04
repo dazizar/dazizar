@@ -7,7 +7,7 @@
   - How to make myself hireable as a software developer
   - PyGame
   - C#
-  - JavaScript
+  - SAP Business One Administration
 - 💞️ I’m looking to collaborate on ...
   - Anything
 - 📫 How to reach me ...
