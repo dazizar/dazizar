@@ -3,8 +3,9 @@
   - All things Python
   - Electronics/Robotics
   - Cyber Security
+  - Automations
+  - APIs
 - 🌱 I’m currently learning ...
-  - How to make myself hireable as a software developer
   - PyGame
   - C#
   - SAP Business One Administration
